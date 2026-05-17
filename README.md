@@ -24,3 +24,14 @@ In an art gallery, a solo person would have total control. In multi-people inter
 ![6.hulls.png](6.hulls.png)
 ![7.boundaries.png](7.boundaries.png)
 ![8.boundaries.png](8.boundaries.png)
+
+## Shapes
+
+**tree: ((a+b)+(c+d))**
+![tree](./tree.png)
+
+**mix: ((a*b)+(c*d))**
+![mix](./mix.png)
+
+**chain: (((a+b)+c)+d)**
+![chain](./chain.png)
